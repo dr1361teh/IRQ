@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:Data\Sector\IRQ.sct
+SECTORFILE:Data\Sector\IRQ.sct
 SECTORTITLE:IRQ.sct
 Airports:OIAA:name
 Airports:ORAA:name
